@@ -1,5 +1,3 @@
-# Asterisma • Unique Celestial Blockchain Constellations in the Augmented Reality
-
 WEB-client: https://asterisma.org
 
 # Abstract
@@ -21,3 +19,7 @@ that they can be improved, monetized, sold, transferred and used to
 obtain new crypto-elements in the system. Made on the parts of the
 constellations you can see in the real world, being close to the places
 of their actual location, with the help of mobile applications Asterisma.
+
+# Documentation
+
+White Paper: https://goo.gl/FHT5DS
