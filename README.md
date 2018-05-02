@@ -1,4 +1,4 @@
-# Asterisma: Unique Celestial Blockchain Constellations in the Augmented Reality
+# Asterisma • Unique Celestial Blockchain Constellations in the Augmented Reality
 
 WEB-client: https://asterisma.org
 
