@@ -26,4 +26,4 @@ White Paper: https://goo.gl/FHT5DS
 
 # Community
 
-Talk to us on Discord.gg/hHgjAqp
+Talk to us on https://Discord.gg/hHgjAqp
