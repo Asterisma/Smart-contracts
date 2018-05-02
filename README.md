@@ -1,8 +1,8 @@
-# Smart-contracts
-Asterisma: Unique Celestial Blockchain Constellations
+#Asterisma: Unique Celestial Blockchain Constellations in the Augmented Reality
 
-in the Augmented Reality
-www.asterisma.org
+WEB-client: asterisma.org
+White Paper: goo.gl/FHT5DS
+Talk to us on Discord.gg/hHgjAqp
 
 Abstract. Blockchain technology has a huge potential for the
 development of financial and many other industries. One of the main
