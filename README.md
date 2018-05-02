@@ -1,10 +1,9 @@
-#Asterisma: Unique Celestial Blockchain Constellations in the Augmented Reality
+# Asterisma: Unique Celestial Blockchain Constellations in the Augmented Reality
 
-WEB-client: asterisma.org
-White Paper: goo.gl/FHT5DS
-Talk to us on Discord.gg/hHgjAqp
+WEB-client: https://asterisma.org
 
-Abstract. Blockchain technology has a huge potential for the
+# Abstract
+Blockchain technology has a huge potential for the
 development of financial and many other industries. One of the main
 advantages of the technology is the exclusive ownership and
 instantaneous transmission within the network. However, in reality
