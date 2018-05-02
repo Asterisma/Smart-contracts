@@ -23,3 +23,7 @@ of their actual location, with the help of mobile applications Asterisma.
 # Documentation
 
 White Paper: https://goo.gl/FHT5DS
+
+# Community
+
+Talk to us on Discord.gg/hHgjAqp
