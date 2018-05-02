@@ -1,0 +1,389 @@
+[
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "_to",
+				"type": "address"
+			}
+		],
+		"name": "destroy",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "minRentDays",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "status",
+		"outputs": [
+			{
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "minPriceBuyERC721TokenInGwei",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "commissionRent",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "minPriceRentERC721TokenInGwei24H",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "_priceInitialBuyERC721TokenInERC20Token",
+				"type": "uint256"
+			},
+			{
+				"name": "_minPriceBuyERC721TokenInGwei",
+				"type": "uint256"
+			},
+			{
+				"name": "_minPriceRentERC721TokenInGwei24H",
+				"type": "uint256"
+			},
+			{
+				"name": "_commissionBuy",
+				"type": "uint256"
+			},
+			{
+				"name": "_commissionRent",
+				"type": "uint256"
+			}
+		],
+		"name": "changeSaleSettings",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "_agent",
+				"type": "address"
+			},
+			{
+				"name": "_value",
+				"type": "uint8"
+			}
+		],
+		"name": "changePermission",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "addressERC20Token",
+		"outputs": [
+			{
+				"name": "",
+				"type": "address"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "_value",
+				"type": "bool"
+			}
+		],
+		"name": "changeStatus",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "addressERC721Token",
+		"outputs": [
+			{
+				"name": "",
+				"type": "address"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "priceInitialBuyERC721TokenInERC20Token",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "_addressERC20Token",
+				"type": "address"
+			},
+			{
+				"name": "_addressERC721Token",
+				"type": "address"
+			}
+		],
+		"name": "changeERCTokensSettings",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "commissionBuy",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "_to",
+				"type": "address"
+			}
+		],
+		"name": "withdrawalETH",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [],
+		"name": "maxRentDays",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [
+			{
+				"name": "",
+				"type": "address"
+			}
+		],
+		"name": "agents",
+		"outputs": [
+			{
+				"name": "",
+				"type": "uint8"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"payable": true,
+		"stateMutability": "payable",
+		"type": "fallback"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"name": "_agent",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"name": "_addressERC20Token",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"name": "_addressERC721Token",
+				"type": "address"
+			}
+		],
+		"name": "ChangeERCTokensSettings",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"name": "_agent",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"name": "_priceInitialBuyERC721TokenInERC20Token",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"name": "_minPriceBuyERC721TokenInGwei",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"name": "_minPriceRentERC721TokenInGwei24H",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"name": "_commissionBuy",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"name": "_commissionRent",
+				"type": "uint256"
+			}
+		],
+		"name": "ChangeSaleSettings",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"name": "_called",
+				"type": "address"
+			},
+			{
+				"indexed": true,
+				"name": "_agent",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"name": "_value",
+				"type": "uint8"
+			}
+		],
+		"name": "ChangePermission",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"name": "_called",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"name": "_value",
+				"type": "bool"
+			}
+		],
+		"name": "ChangeStatus",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"name": "_from",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"name": "_value",
+				"type": "uint256"
+			}
+		],
+		"name": "Donate",
+		"type": "event"
+	}
+]
