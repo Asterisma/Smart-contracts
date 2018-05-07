@@ -1,4 +1,4 @@
-WEB-client: https://asterisma.org
+WEB-client: [asterisma.org](https://asterisma.org)
 
 # Abstract
 Blockchain technology has a huge potential for the
@@ -22,8 +22,8 @@ of their actual location, with the help of mobile applications Asterisma.
 
 # Documentation
 
-White Paper: https://goo.gl/FHT5DS
+White Paper: [goo.gl/FHT5DS](https://goo.gl/FHT5DS)
 
 # Community
 
-Talk to us on https://Discord.gg/hHgjAqp
+Talk to us on [Discord](https://Discord.gg/hHgjAqp)
